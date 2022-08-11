@@ -1,6 +1,6 @@
 # Computational study of p53 mutations
 <p align = "left"><img src ="https://github.com/f-madon/Protein_p53/blob/main/Immagine1.jpg" width = "100%"></a>
-</p> <h6 align="center">a project for the competition "I giovani e le Scienze" organized by FAST</h6>
+</p> <h6 align="center">a project for the competition "I giovani e le Scienze 2016" organized by FAST</h6>
 <p align="center">
   <a href="#abstract">Abstract &nbsp;</a>
 
@@ -14,10 +14,4 @@ In a previous investigation on the wild type p53 protein we showed that long-ran
 
 
 
-You can see the views via the following links:
-
-  • https://sites.google.com/view/progetto-dataviz/correlogramma
-
-  • https://public.tableau.com/views/Viz_Felicit/Dashboard2?:language=it-IT&:display_count=n&:origin=viz_share_link&:device=desktop
-
-
+You can see the website of FAST: https://fast.mi.it/i-giovani-e-le-scienze/.
