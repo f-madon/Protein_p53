@@ -2,7 +2,7 @@
 <p align = "center"><img src ="https://github.com/f-madon/Protein_p53/blob/main/Immagine1.jpg" width = "100%"></a>
 </p> <h6 align="center">a project for the competition "I Giovani e le Scienze 2016" organized by FAST</h6>
 
-This project was made in 2016 for the competition "I Giovani e le Scienze 2016" organized by FAST. The study was done in the Environmental Sciences Departement of the University of Milan-Bicocca. The project won partecipation in the TISF, Taiwan International Science Fair, in February 2015.
+This project was made in 2016 for the competition "I Giovani e le Scienze 2016" organized by FAST. The study was done in the Environmental Sciences Departement of the University of Milan-Bicocca. The project won partecipation in the TISF, Taiwan International Science Fair, in February 2015. This achievement allowed me to enter in the Register of Italian Excellence.
 
 <p align="center">
   <a href="#abstract">Abstract &nbsp;</a>
